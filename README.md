@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @faww6z
 - 🌱 I’m currently studying Data Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email- fawwaibrah@gmail.com
-- 😄 Pronouns: He/him
 
 
 <!---
